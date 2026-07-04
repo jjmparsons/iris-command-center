@@ -1,0 +1,17 @@
+{
+  "title": "Intent Evidence Packet",
+  "version": "1.0",
+  "description": "Canonical data object for I.R.I.S. pipeline processing",
+  "fields": [
+    "ObservedStream",
+    "BoundaryMarkers",
+    "StructuralHypotheses",
+    "ClassModifiers",
+    "DomainWeights",
+    "ProbabilityDistributions",
+    "ReconstructedString",
+    "ConfidenceMetric",
+    "AmbiguityFlags",
+    "TraceabilityLog"
+  ]
+}
