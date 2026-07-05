@@ -1,0 +1,149 @@
+tier,pattern_type,subject,value,statement,details
+top_1_percent,separate_letters,a/b,1.0,a and b consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/c,1.0,a and c consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/d,1.0,a and d consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/e,1.0,a and e consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/f,1.0,a and f consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/g,1.0,a and g consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/h,1.0,a and h consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/i,1.0,a and i consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/j,1.0,a and j consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/k,1.0,a and k consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/l,1.0,a and l consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/m,1.0,a and m consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/n,1.0,a and n consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/o,1.0,a and o consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/p,1.0,a and p consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/q,1.0,a and q consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/s,1.0,a and s consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/t,1.0,a and t consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/u,1.0,a and u consistently separate in top_1_percent.,
+top_1_percent,separate_letters,a/v,1.0,a and v consistently separate in top_1_percent.,
+top_1_percent,clustered_letters,a/r,1.0,a and r repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,b/w,1.0,b and w repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,b/y,1.0,b and y repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,c/o,1.0,c and o repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,c/z,1.0,c and z repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,d/g,1.0,d and g repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,d/i,1.0,d and i repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,e/m,1.0,e and m repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,f/l,1.0,f and l repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,f/x,1.0,f and x repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,g/i,1.0,g and i repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,h/v,1.0,h and v repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,j/k,1.0,j and k repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,j/s,1.0,j and s repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,k/s,1.0,k and s repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,l/x,1.0,l and x repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,n/p,1.0,n and p repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,n/q,1.0,n and q repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,o/z,1.0,o and z repeatedly cluster in top_1_percent.,
+top_1_percent,clustered_letters,p/q,1.0,p and q repeatedly cluster in top_1_percent.,
+top_1_percent,vowel_separation,aeiou,1.0,Vowels trend toward separate channels.,Average share of top layouts where vowel pairs are on separate channels.
+top_1_percent,high_frequency_consonants_on_core,thnrsfwd,0.5,High-frequency consonants are not strongly core-biased.,Share of high-frequency consonants assigned to channels 2-7.
+top_1_percent,low_frequency_letters_on_edges,vpgkxjqz,0.375,Low-frequency letters are not consistently edge-loaded.,"Share of low-frequency letters assigned to channels 0, 1, 8, or 9."
+top_1_percent,hand_alternation,top_layouts,0.45101329878584906,Hand alternation is not a dominant winning signal.,Average weighted left/right alternation rate across top layouts.
+top_1_percent,repeated_full_pattern,npq|bwy|jks|dgi|coz|flx|em|ar|tu|hv,1.0,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_5_percent,separate_letters,a/b,1.0,a and b consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/c,1.0,a and c consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/d,1.0,a and d consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/e,1.0,a and e consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/f,1.0,a and f consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/g,1.0,a and g consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/h,1.0,a and h consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/i,1.0,a and i consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/j,1.0,a and j consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/k,1.0,a and k consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/l,1.0,a and l consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/m,1.0,a and m consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/o,1.0,a and o consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/p,1.0,a and p consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/q,1.0,a and q consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/s,1.0,a and s consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/t,1.0,a and t consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/u,1.0,a and u consistently separate in top_5_percent.,
+top_5_percent,separate_letters,a/w,1.0,a and w consistently separate in top_5_percent.,
+top_5_percent,separate_letters,b/c,1.0,b and c consistently separate in top_5_percent.,
+top_5_percent,clustered_letters,b/j,0.6,b and j repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,b/p,0.6,b and p repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,j/p,0.6,j and p repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,l/x,0.6,l and x repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,d/i,0.4,d and i repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,d/z,0.4,d and z repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,e/w,0.4,e and w repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,f/h,0.4,f and h repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,f/i,0.4,f and i repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,g/i,0.4,g and i repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,h/q,0.4,h and q repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,j/k,0.4,j and k repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,k/t,0.4,k and t repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,l/m,0.4,l and m repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,l/s,0.4,l and s repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,l/u,0.4,l and u repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,m/s,0.4,m and s repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,m/v,0.4,m and v repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,n/z,0.4,n and z repeatedly cluster in top_5_percent.,
+top_5_percent,clustered_letters,o/z,0.4,o and z repeatedly cluster in top_5_percent.,
+top_5_percent,vowel_separation,aeiou,0.9800000000000001,Vowels trend toward separate channels.,Average share of top layouts where vowel pairs are on separate channels.
+top_5_percent,high_frequency_consonants_on_core,thnrsfwd,0.6,High-frequency consonants are not strongly core-biased.,Share of high-frequency consonants assigned to channels 2-7.
+top_5_percent,low_frequency_letters_on_edges,vpgkxjqz,0.375,Low-frequency letters are not consistently edge-loaded.,"Share of low-frequency letters assigned to channels 0, 1, 8, or 9."
+top_5_percent,hand_alternation,top_layouts,0.4092680781779464,Hand alternation is not a dominant winning signal.,Average weighted left/right alternation rate across top layouts.
+top_5_percent,repeated_full_pattern,npq|bwy|jks|dgi|coz|flx|em|ar|tu|hv,0.2,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_5_percent,repeated_full_pattern,anz|w|bjkp|mvy|cd|fgi|eu|lrs|qt|hox,0.2,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_5_percent,repeated_full_pattern,eqt|fhp|lms|cgr|ikv|doz|nw|jy|bu|ax,0.2,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_5_percent,repeated_full_pattern,ew|hq|nsyz|kt|bjp|cfi|go|dr|lmuvx|a,0.2,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_5_percent,repeated_full_pattern,cew|fhq|ms|kot|bjp|diz|gn|r|lux|avy,0.2,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,separate_letters,a/b,1.0,a and b consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/c,1.0,a and c consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/f,1.0,a and f consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/g,1.0,a and g consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/i,1.0,a and i consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/j,1.0,a and j consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/k,1.0,a and k consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/l,1.0,a and l consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/m,1.0,a and m consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/o,1.0,a and o consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/p,1.0,a and p consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/q,1.0,a and q consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/s,1.0,a and s consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/t,1.0,a and t consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/u,1.0,a and u consistently separate in top_10_percent.,
+top_10_percent,separate_letters,a/w,1.0,a and w consistently separate in top_10_percent.,
+top_10_percent,separate_letters,b/d,1.0,b and d consistently separate in top_10_percent.,
+top_10_percent,separate_letters,b/e,1.0,b and e consistently separate in top_10_percent.,
+top_10_percent,separate_letters,b/g,1.0,b and g consistently separate in top_10_percent.,
+top_10_percent,separate_letters,b/h,1.0,b and h consistently separate in top_10_percent.,
+top_10_percent,clustered_letters,b/p,0.6,b and p repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,n/z,0.5,n and z repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,a/x,0.4,a and x repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,e/w,0.4,e and w repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,i/k,0.4,i and k repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,j/k,0.4,j and k repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,l/m,0.4,l and m repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,l/x,0.4,l and x repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,q/t,0.4,q and t repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,b/j,0.3,b and j repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,b/w,0.3,b and w repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,c/g,0.3,c and g repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,d/i,0.3,d and i repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,d/z,0.3,d and z repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,f/h,0.3,f and h repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,f/i,0.3,f and i repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,j/p,0.3,j and p repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,k/s,0.3,k and s repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,v/y,0.3,v and y repeatedly cluster in top_10_percent.,
+top_10_percent,clustered_letters,y/z,0.3,y and z repeatedly cluster in top_10_percent.,
+top_10_percent,vowel_separation,aeiou,0.9800000000000001,Vowels trend toward separate channels.,Average share of top layouts where vowel pairs are on separate channels.
+top_10_percent,high_frequency_consonants_on_core,thnrsfwd,0.5625,High-frequency consonants are not strongly core-biased.,Share of high-frequency consonants assigned to channels 2-7.
+top_10_percent,low_frequency_letters_on_edges,vpgkxjqz,0.3375,Low-frequency letters are not consistently edge-loaded.,"Share of low-frequency letters assigned to channels 0, 1, 8, or 9."
+top_10_percent,hand_alternation,top_layouts,0.4571842763120893,Hand alternation is not a dominant winning signal.,Average weighted left/right alternation rate across top layouts.
+top_10_percent,repeated_full_pattern,npq|bwy|jks|dgi|coz|flx|em|ar|tu|hv,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,anz|w|bjkp|mvy|cd|fgi|eu|lrs|qt|hox,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,eqt|fhp|lms|cgr|ikv|doz|nw|jy|bu|ax,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,ew|hq|nsyz|kt|bjp|cfi|go|dr|lmuvx|a,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,cew|fhq|ms|kot|bjp|diz|gn|r|lux|avy,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,enpr|buw|ijks|dgvz|o|lqt|cm|ax|fy|h,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,ewx|fim|gnyz|u|bcp|kqs|o|djlr|tv|ah,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,knz|bfw|mp|vy|cgu|dilx|ae|rs|qt|hjo,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,ijk|adx|fhu|nrz|qsw|bpv|et|gy|lm|co,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.
+top_10_percent,repeated_full_pattern,eqw|f|lmyz|cgu|bikpv|os|n|hjr|dt|ax,0.1,A complete channel grouping repeats across the tier.,Observed 1 times among retained layouts.

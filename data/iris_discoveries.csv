@@ -1,0 +1,7 @@
+corpus,rank,law,confidence,evidence,interpretation
+primary,1,High-frequency vowels separate.,0.942,Vowel pair separation rate among top layouts: 0.942.,Vowels are carrying early intent resolution and tend not to share fields.
+primary,2,Winning layouts suppress pinky load.,0.7718509252566199,Average pinky burden across top layouts: 0.228.,The optimizer avoids frequent intent-bearing letters on edge channels.
+primary,3,Learnability remains viable under optimization.,0.7430366045263253,Average learnability index across top layouts: 0.743.,The current search does not require completely chaotic letter grouping.
+primary,4,Strong fingers accumulate common consonants.,0.555,Core-channel rate for common consonants thnrsfwd: 0.555.,Frequent consonant touches move toward channels 2-7.
+primary,5,Hand alternation emerges naturally.,0.4852320308701619,Average hand alternation across top layouts: 0.485.,Intent-resolution search also tends to improve rhythmic left/right switching.
+primary,6,Rare letters migrate to edge channels.,0.35875,Rare-letter edge-channel rate: 0.359 for vpgkxjqz.,Low-frequency letters can absorb harder fields with less total human cost.

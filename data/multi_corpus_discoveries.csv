@@ -1,0 +1,37 @@
+corpus,law,confidence,evidence,interpretation
+conversational_english,High-frequency vowels separate.,0.9466666666666667,Vowel pair separation rate among top layouts: 0.947.,Vowels are carrying early intent resolution and tend not to share fields.
+conversational_english,Winning layouts suppress pinky load.,0.7832589153332896,Average pinky burden across top layouts: 0.217.,The optimizer avoids frequent intent-bearing letters on edge channels.
+conversational_english,Learnability remains viable under optimization.,0.7172406657725293,Average learnability index across top layouts: 0.717.,The current search does not require completely chaotic letter grouping.
+conversational_english,Hand alternation emerges naturally.,0.5226720212211061,Average hand alternation across top layouts: 0.523.,Intent-resolution search also tends to improve rhythmic left/right switching.
+conversational_english,Strong fingers accumulate common consonants.,0.5166666666666667,Core-channel rate for common consonants thnrsfwd: 0.517.,Frequent consonant touches move toward channels 2-7.
+conversational_english,Rare letters migrate to edge channels.,0.31666666666666665,Rare-letter edge-channel rate: 0.317 for vpgkxqjz.,Low-frequency letters can absorb harder fields with less total human cost.
+business_writing,High-frequency vowels separate.,0.96,Vowel pair separation rate among top layouts: 0.960.,Vowels are carrying early intent resolution and tend not to share fields.
+business_writing,Winning layouts suppress pinky load.,0.805357160809343,Average pinky burden across top layouts: 0.195.,The optimizer avoids frequent intent-bearing letters on edge channels.
+business_writing,Learnability remains viable under optimization.,0.7487505366997188,Average learnability index across top layouts: 0.749.,The current search does not require completely chaotic letter grouping.
+business_writing,Strong fingers accumulate common consonants.,0.6083333333333333,Core-channel rate for common consonants thnrsfwd: 0.608.,Frequent consonant touches move toward channels 2-7.
+business_writing,Hand alternation emerges naturally.,0.5343056666370098,Average hand alternation across top layouts: 0.534.,Intent-resolution search also tends to improve rhythmic left/right switching.
+business_writing,Rare letters migrate to edge channels.,0.4,Rare-letter edge-channel rate: 0.400 for vpgkxjqz.,Low-frequency letters can absorb harder fields with less total human cost.
+technical_documentation,High-frequency vowels separate.,0.9266666666666666,Vowel pair separation rate among top layouts: 0.927.,Vowels are carrying early intent resolution and tend not to share fields.
+technical_documentation,Winning layouts suppress pinky load.,0.7950690192340462,Average pinky burden across top layouts: 0.205.,The optimizer avoids frequent intent-bearing letters on edge channels.
+technical_documentation,Learnability remains viable under optimization.,0.7430831114284503,Average learnability index across top layouts: 0.743.,The current search does not require completely chaotic letter grouping.
+technical_documentation,Strong fingers accumulate common consonants.,0.65,Core-channel rate for common consonants thnrsfwd: 0.650.,Frequent consonant touches move toward channels 2-7.
+technical_documentation,Hand alternation emerges naturally.,0.5486134334662446,Average hand alternation across top layouts: 0.549.,Intent-resolution search also tends to improve rhythmic left/right switching.
+technical_documentation,Rare letters migrate to edge channels.,0.325,Rare-letter edge-channel rate: 0.325 for vpgkxqjz.,Low-frequency letters can absorb harder fields with less total human cost.
+programming,High-frequency vowels separate.,0.9666666666666667,Vowel pair separation rate among top layouts: 0.967.,Vowels are carrying early intent resolution and tend not to share fields.
+programming,Winning layouts suppress pinky load.,0.7833274429415122,Average pinky burden across top layouts: 0.217.,The optimizer avoids frequent intent-bearing letters on edge channels.
+programming,Learnability remains viable under optimization.,0.7443682804663008,Average learnability index across top layouts: 0.744.,The current search does not require completely chaotic letter grouping.
+programming,Strong fingers accumulate common consonants.,0.6666666666666666,Core-channel rate for common consonants thnrsfwd: 0.667.,Frequent consonant touches move toward channels 2-7.
+programming,Hand alternation emerges naturally.,0.5086940407944088,Average hand alternation across top layouts: 0.509.,Intent-resolution search also tends to improve rhythmic left/right switching.
+programming,Rare letters migrate to edge channels.,0.38333333333333336,Rare-letter edge-channel rate: 0.383 for vpgkxjqz.,Low-frequency letters can absorb harder fields with less total human cost.
+medical_language,High-frequency vowels separate.,0.9466666666666667,Vowel pair separation rate among top layouts: 0.947.,Vowels are carrying early intent resolution and tend not to share fields.
+medical_language,Winning layouts suppress pinky load.,0.7996339668755503,Average pinky burden across top layouts: 0.200.,The optimizer avoids frequent intent-bearing letters on edge channels.
+medical_language,Learnability remains viable under optimization.,0.7421900398821617,Average learnability index across top layouts: 0.742.,The current search does not require completely chaotic letter grouping.
+medical_language,Strong fingers accumulate common consonants.,0.6416666666666667,Core-channel rate for common consonants thnrsfwd: 0.642.,Frequent consonant touches move toward channels 2-7.
+medical_language,Hand alternation emerges naturally.,0.5225958500178738,Average hand alternation across top layouts: 0.523.,Intent-resolution search also tends to improve rhythmic left/right switching.
+medical_language,Rare letters migrate to edge channels.,0.4166666666666667,Rare-letter edge-channel rate: 0.417 for vpgkxjqz.,Low-frequency letters can absorb harder fields with less total human cost.
+aviation_terminology,High-frequency vowels separate.,0.96,Vowel pair separation rate among top layouts: 0.960.,Vowels are carrying early intent resolution and tend not to share fields.
+aviation_terminology,Winning layouts suppress pinky load.,0.7885714934350563,Average pinky burden across top layouts: 0.211.,The optimizer avoids frequent intent-bearing letters on edge channels.
+aviation_terminology,Learnability remains viable under optimization.,0.7776523633548028,Average learnability index across top layouts: 0.778.,The current search does not require completely chaotic letter grouping.
+aviation_terminology,Strong fingers accumulate common consonants.,0.575,Core-channel rate for common consonants thnrsfwd: 0.575.,Frequent consonant touches move toward channels 2-7.
+aviation_terminology,Hand alternation emerges naturally.,0.5219049987873852,Average hand alternation across top layouts: 0.522.,Intent-resolution search also tends to improve rhythmic left/right switching.
+aviation_terminology,Rare letters migrate to edge channels.,0.4,Rare-letter edge-channel rate: 0.400 for vpgkxqjz.,Low-frequency letters can absorb harder fields with less total human cost.
