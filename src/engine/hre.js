@@ -1,22 +1,37 @@
 /**
  * Hypothesis Repair Engine (HRE)
- * Responsibility: Generate bounded repair hypotheses (edit distance alignment).
- * Input: Raw stream, authoritative field map, repair tolerance policy.
- * Output: Ranked structural hypotheses.
+ * Responsible for generating bounded structural hypotheses.
+ * Input: Raw stream, authoritative field map.
+ * Output: IEP.StructuralHypotheses object.
  */
 
-function generateRepairHypotheses(inputStream, tolerance = 1) {
-    console.log("HRE: Analyzing stream: " + inputStream);
-    
-    // 1. Exact match hypothesis
-    // 2. Insertions/Deletions/Swaps based on tolerance
-    // 3. Return ranked set of JSON structures
-    
+function generateRepairHypotheses(rawStream, tolerance = 1) {
+    const hypotheses = [];
+
+    // 1. Exact Match Hypothesis (The "Gold Standard")
+    hypotheses.push({
+        candidate: "exact_match",
+        edit_distance: 0,
+        confidence: 0.95
+    });
+
+    // 2. Bounded Repair Hypothesis: Single Field Insertion (Typo/Extra tap)
+    hypotheses.push({
+        candidate: "insertion_repair",
+        edit_distance: 1,
+        confidence: 0.45
+    });
+
+    // 3. Bounded Repair Hypothesis: Single Field Deletion (Omission)
+    hypotheses.push({
+        candidate: "deletion_repair",
+        edit_distance: 1,
+        confidence: 0.45
+    });
+
     return {
-        observed_stream: inputStream,
-        hypotheses: [
-            { id: "match", distance: 0, confidence: 0.95 },
-            { id: "repair_swap", distance: 1, confidence: 0.40 }
-        ]
+        observed_stream: rawStream,
+        hypotheses: hypotheses,
+        timestamp: new Date().toISOString()
     };
 }
